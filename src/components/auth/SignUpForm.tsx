@@ -126,7 +126,7 @@ export default function SignUpForm() {
                 {/* <!-- Password --> */}
                 <div>
                   <Label>
-                    Password<span className="text-error-500">*</span>
+                    Senha<span className="text-error-500">*</span>
                   </Label>
                   <div className="relative">
                     <Input
