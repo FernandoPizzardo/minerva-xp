@@ -70,17 +70,17 @@ export default function LineChartOne() {
       type: "category", // Category-based x-axis
       categories: [
         "Jan",
-        "Feb",
+        "Fev",
         "Mar",
-        "Apr",
-        "May",
+        "Abr",
+        "Mai",
         "Jun",
         "Jul",
-        "Aug",
-        "Sep",
-        "Oct",
+        "Ago",
+        "Set",
+        "Out",
         "Nov",
-        "Dec",
+        "Dez",
       ],
       axisBorder: {
         show: false, // Hide x-axis border
@@ -110,11 +110,11 @@ export default function LineChartOne() {
 
   const series = [
     {
-      name: "Sales",
+      name: "Vendas",
       data: [180, 190, 170, 160, 175, 165, 170, 205, 230, 210, 240, 235],
     },
     {
-      name: "Revenue",
+      name: "Renda",
       data: [40, 30, 50, 40, 55, 40, 70, 100, 110, 120, 150, 140],
     },
   ];
