@@ -26,7 +26,7 @@ const navItems: NavItem[] = [
   },
   {
     icon: <CalenderIcon />,
-    name: "Calendar",
+    name: "Calendário",
     path: "/calendar",
   },
 ];
@@ -34,7 +34,7 @@ const navItems: NavItem[] = [
 const othersItems: NavItem[] = [
   {
     icon: <UserIcon />,
-    name: "Authentication",
+    name: "Autenticação",
     subItems: [
       { name: "Sign In", path: "/signin", pro: false },
       { name: "Sign Up", path: "/signup", pro: false },

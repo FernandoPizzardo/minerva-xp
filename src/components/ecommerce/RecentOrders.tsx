@@ -24,7 +24,7 @@ interface Product {
 const tableData: Product[] = [
   {
     id: 1,
-    name: "MacBook Pro 13”",
+    name: "Adauto",
     variants: "2 Variants",
     category: "Laptop",
     price: "$2399.00",
@@ -33,7 +33,7 @@ const tableData: Product[] = [
   },
   {
     id: 2,
-    name: "Apple Watch Ultra",
+    name: "Fernanda",
     variants: "1 Variant",
     category: "Watch",
     price: "$879.00",
@@ -42,7 +42,7 @@ const tableData: Product[] = [
   },
   {
     id: 3,
-    name: "iPhone 15 Pro Max",
+    name: "Horacio",
     variants: "2 Variants",
     category: "SmartPhone",
     price: "$1869.00",
@@ -51,7 +51,7 @@ const tableData: Product[] = [
   },
   {
     id: 4,
-    name: "iPad Pro 3rd Gen",
+    name: "Luna",
     variants: "2 Variants",
     category: "Electronics",
     price: "$1699.00",
@@ -60,7 +60,7 @@ const tableData: Product[] = [
   },
   {
     id: 5,
-    name: "AirPods Pro 2nd Gen",
+    name: "Barbara",
     variants: "1 Variant",
     category: "Accessories",
     price: "$240.00",
