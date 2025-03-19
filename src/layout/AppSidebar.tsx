@@ -7,6 +7,7 @@ import { useSidebar } from "../context/SidebarContext";
 import {
   CalenderIcon,
   ChevronDownIcon,
+  DocsIcon,
   GridIcon,
   HorizontaLDots,
   UserIcon,
@@ -28,6 +29,11 @@ const navItems: NavItem[] = [
     icon: <CalenderIcon />,
     name: "Calendário",
     path: "/calendar",
+  },
+  {
+    icon: <DocsIcon/>,
+    name: "Documentos",
+    path: "/docs",
   },
 ];
 
